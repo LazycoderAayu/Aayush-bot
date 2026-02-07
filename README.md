@@ -1,6 +1,17 @@
 # 🤖 Aayush.bot — The Sarcastic A.I 🗿
 
-### 🛠️ Tech Stack & Tools
+
+## 🛠️ Tech Stack
+
+| Tech | Purpose |
+| :--- | :--- |
+| **React 19** | The UI Library |
+| **Vite 6** | Frontend Tooling (Super Fast) |
+| **TypeScript** | Type Safety & Less Bugs |
+| **Google GenAI** | The "Brain" (Gemini API) |
+| **Vercel** | The Home (Hosting) |
+| And many moreeee | others: |
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="35" title="React" alt="React" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="35" title="Vite" alt="Vite" />
@@ -32,25 +43,12 @@ Introducing **AAYUSH.BOT**! This isn't just another AI; it's a sleek, fast, and 
 
 ---
 
-## 🛠️ Tech Stack
-
-| Tech | Purpose |
-| :--- | :--- |
-| **React 19** | The UI Library |
-| **Vite 6** | Frontend Tooling (Super Fast) |
-| **TypeScript** | Type Safety & Less Bugs |
-| **Google GenAI** | The "Brain" (Gemini API) |
-| **Vercel** | The Home (Hosting) |
-
----
-
 ## 📸 Screenshots:
 
 | Desktop | Mobile |
 | :---: | :---: |
-| <img width="1920" height="952" src="https://github.com/user-attachments/assets/b17186c9-e47b-4760-ae56-4540482b0dc9" /> | <img width="395" height="1055" src="https://github.com/user-attachments/assets/df811373-07b1-4201-86e2-9b9ce0b4c0d6" width="200" /> |
-| <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/df496789-eb53-4930-abbf-d845a52d4932" /> | <img width="399" height="861" alt="image" src="https://github.com/user-attachments/assets/adc499b7-a935-439a-b039-9b283cab1a13" />
-|
+| <img width="1920" height="952" src="https://github.com/user-attachments/assets/b17186c9-e47b-4760-ae56-4540482b0dc9" /> | <img width="397" height="856" alt="image" src="https://github.com/user-attachments/assets/479bf1a6-fb3a-47a7-bec4-88f1dc9160b5" /> |
+| <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/df496789-eb53-4930-abbf-d845a52d4932" /> | <img width="399" height="861" alt="image" src="https://github.com/user-attachments/assets/adc499b7-a935-439a-b039-9b283cab1a13" /> |
 
 
  
@@ -69,11 +67,16 @@ Want to run this beast locally? Follow these steps:
    ```bash
    npm install
    
-3. Set Environment Variables: Create a  **.env**  file in the root and add your API key:
-   ```bash
-   YOURAI_API_KEY=your_api_key_here
+3. Set Environment Variables: Add your API key:
+-
    
-4. Ignite the engine:
+   >  Create a .env file in the root
+   > -
+   > 🔑 **Need a Key?** Get it for free from [Google AI Studio](https://aistudio.google.com/) (Gemini)
+   ```bash
+   GEMINI_API_KEY=your_api_key_here
+   
+5. Ignite the engine:
    ```bash
    npm run dev
 ---
