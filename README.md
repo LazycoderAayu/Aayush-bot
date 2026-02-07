@@ -46,7 +46,14 @@ Introducing **AAYUSH.BOT**! This isn't just another AI; it's a sleek, fast, and 
 
 ## 📸 Screenshots:
 
+| Desktop | Mobile |
+| :---: | :---: |
+| <img width="1920" height="952" src="https://github.com/user-attachments/assets/b17186c9-e47b-4760-ae56-4540482b0dc9" /> | <img width="395" height="1055" src="https://github.com/user-attachments/assets/df811373-07b1-4201-86e2-9b9ce0b4c0d6" width="200" /> |
+| <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/df496789-eb53-4930-abbf-d845a52d4932" /> | <img width="399" height="861" alt="image" src="https://github.com/user-attachments/assets/adc499b7-a935-439a-b039-9b283cab1a13" />
+|
 
+
+ 
 
 ---
 
@@ -68,6 +75,13 @@ Want to run this beast locally? Follow these steps:
    
 4. Ignite the engine:
    ```bash
-   npm run dev   
+   npm run dev
+---
+
+## 📊 Quick Status
+## ⚠️ Warning
+AAYUSH.BOT has no chill. Use at your own risk. Emotional damage is not covered under the license. 😂
+
+Built with 💻 and a lot of 🧠 by [LazyCoderAayu](https://github.com/LazycoderAayu)
    
    
