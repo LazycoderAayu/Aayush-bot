@@ -1,3 +1,21 @@
+# Dependency directories
+node_modules/
+
+# SECRETS (Environment variables & Tokens)
+.env
+.env.local
+.env.*
+.npmrc
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+*.js
+!jest.config.js
+!next.config.js
+
+# Logs
 # Logs
 logs
 *.log
@@ -7,51 +25,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 API-*.log
-node_modules
-dist
-dist-ssr!
-*.local
 
-# Editor directories and files
+# Editor directories and OS files
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
+Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-
-# SECRETS
-.env
-.env.local
-.env.*.local
-
-# Dependency directories
-node_modules/
-
-# Environment variables (Secrets)
-.env
-.env.local
-.env.*
-
-# NPM configuration (Tokens)
-.npmrc
-
-# Build outputs
-dist/
-build/
-*.js
-!jest.config.js
-!next.config.js
-
-# Debug logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS files
-.DS_Store
-Thumbs.db
-.npmrc
