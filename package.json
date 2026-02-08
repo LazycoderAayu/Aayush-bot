@@ -11,7 +11,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-    "dependencies": {
+  "dependencies": {
     "@google/genai": "^1.40.0",
     "@lazycoderaayu/aayush-bot": "^1.0.0",
     "lucide-react": "^0.563.0",
@@ -20,7 +20,7 @@
     "react-markdown": "^10.1.0",
     "mongoose": "^8.0.0",
     "@types/mongoose": "^5.11.97"
-  }
+  },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
