@@ -20,9 +20,12 @@ export const InputArea: React.FC<InputAreaProps> = ({ input, setInput, onSend, i
   }, [input]);
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
+    // Agar Enter dabaya aur Shift nahi dabaya, toh message bhejo
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
-      onSend();
+      if (input.trim() && !isLoading) {
+        onSend();
+      }
     }
   };
 
