@@ -1,0 +1,21 @@
+version: 2
+updates:
+  # 1. Track NPM dependencies (React, Vite, Gemini API, etc.)
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly" # Checks on the 1st of every month
+    open-pull-requests-limit: 3 # Keeps things very quiet
+    groups:
+      dependencies:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  # 2. Track GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
