@@ -35,22 +35,9 @@ Introducing **AAYUSH.BOT**! This isn't just another AI; it's a sleek, fast, and 
 
 * **⚡ Zero Filter:** It doesn't sugarcoat. If your prompt is dumb, you'll know.
 * **🧠 Gemini Brain:** Uses the latest `@google/genai` for smart, human-like responses.
-* **🎨 Pro UI:** Clean, dark/light-themed interface using **Lucide-React**.
 * **🎨 Pro UI:** Clean interface with **Lucide-React** icons and **Tailwind-style** responsiveness.
 * **📝 Markdown Support:** It doesn't just talk; it formats code, lists, and bold text perfectly using `react-markdown`.
 * **☁️ Cloud Ready:** Optimized for Vercel deployment with zero-lag edge execution.
-
----
-
-## 🛠️ Tech Stack
-
-| Tech | Purpose |
-| :--- | :-- |
-| **React 19** | The UI Library |
-| **Vite 6** | Frontend Tooling (Super Fast) |
-| **TypeScript** | Type Safety & Less Bugs |
-| **Google GenAI** | The "Brain" (Gemini API) |
-| **Vercel** | The Home (Hosting) |
 
 ---
 
