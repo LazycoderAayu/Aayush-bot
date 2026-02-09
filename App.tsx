@@ -337,11 +337,6 @@ export default function App() {
             onSend={handleSend} 
             isLoading={isLoading} 
           />
-          <div className="max-w-3xl mx-auto px-6 pb-2">
-            <p className="text-[10px] text-center text-slate-400 dark:text-slate-500">
-              Aayush.bot can make mistakes. Check important info. Built with Gemini & MongoDB.
-            </p>
-          </div>
         </footer>
       </div>
 
