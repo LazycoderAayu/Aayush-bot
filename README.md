@@ -11,6 +11,8 @@
 | **Vercel** | The Home (Hosting) |
 | And many moreeee | others: |
 
+---
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="35" title="React" alt="React" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="35" title="Vite" alt="Vite" />
@@ -23,6 +25,17 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="35" title="GitHub" alt="GitHub" />
 </p>
 
+---
+
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## ✨ Overview
 Introducing **AAYUSH.BOT**! This isn't just another AI; it's a sleek, fast, and highly responsive chat application powered by **Google's Gemini AI**. Built with speed in mind using **Vite + React**, this bot is designed to handle your queries with style.
@@ -79,7 +92,6 @@ Want to run this beast locally? Follow these steps:
    npm run dev
 ---
 
-## 📊 Quick Status
 ## ⚠️ Warning
 AAYUSH.BOT has no chill. Use at your own risk. Emotional damage is not covered under the license. 😂
 
