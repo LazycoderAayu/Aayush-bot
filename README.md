@@ -90,6 +90,12 @@ Want to run this beast locally? Follow these steps:
 
    ```bash
    npm run dev
+   
+---
+
+## LICENSE:
+[![mi](https://github.com/user-attachments/assets/ef73081e-45db-4cf7-8e00-a8dfcc5dc555)](https://github.com/LazycoderAayu/Aayush-bot?tab=MIT-1-ov-file#readme)
+
 ---
 
 ## ⚠️ Warning
