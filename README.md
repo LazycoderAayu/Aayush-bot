@@ -40,7 +40,7 @@
 ## ✨ Overview
 Introducing **AAYUSH.BOT**! This isn't just another AI; it's a sleek, fast, and highly responsive chat application powered by **Google's Gemini AI**. Built with speed in mind using **Vite + React**, this bot is designed to handle your queries with style.
 
-> **The Vision:** "Roasting the world, one prompt at a time." 🔥👅
+> **The Vision:** "Roasting the world, one prompt at a time." 👅
 
 ---
 
@@ -99,6 +99,6 @@ Want to run this beast locally? Follow these steps:
 ---
 
 ## ⚠️ Warning
-AAYUSH.BOT has no chill. Use at your own risk. Emotional damage is not covered under the license. 😂
+Aayush.bot has no chill. Use at your own risk. Emotional damage is not covered under the license. 😂
 
 Built with 💻 and a lot of 🧠 by [LazyCoderAayu](https://github.com/LazycoderAayu)
