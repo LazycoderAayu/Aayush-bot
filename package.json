@@ -12,18 +12,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^1.40.0",
+    "@google/genai": "^1.43.0",
     "@lazycoderaayu/aayush-bot": "^1.0.0",
-    "lucide-react": "^0.563.0",
+    "lucide-react": "^0.575.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-markdown": "^10.1.0",
-    "mongoose": "^9.1.6",
+    "mongoose": "^9.2.3",
     "@types/mongoose": "^5.11.97"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
+    "@vitejs/plugin-react": "^5.1.4",
     "typescript": "~5.9.3",
     "vite": "^7.3.1"
   }
